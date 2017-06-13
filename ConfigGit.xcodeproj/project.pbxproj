@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					67194DE61EEECD9300BC42D7 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 8D6T8S6S99;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -274,6 +275,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8D6T8S6S99;
 				INFOPLIST_FILE = ConfigGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.healthasyst.ConfigGit;
@@ -285,6 +287,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8D6T8S6S99;
 				INFOPLIST_FILE = ConfigGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.healthasyst.ConfigGit;
